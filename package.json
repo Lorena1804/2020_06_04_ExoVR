@@ -1,0 +1,10 @@
+{
+    "name":           "be.lorenaquaranta.exovrbuttonslevers",                              
+     "displayName":    "buttons and levers for VR project",                        
+     "version":        "0.0.1",                         
+     "unity":          "2018.1",                        
+     "description":    "What do my useful tool do",                         
+     "keywords":       ["Script","Tool","3D"],                       
+     "dependencies":{  },     
+     "relatedPackages":{  }
+}
